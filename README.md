@@ -39,10 +39,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=JonathanJoseGonzalez&theme=dark" alt="Layout with last medium posts" />
-</div>
-
 <img src="https://raw.githubusercontent.com/JonathanJoseGonzalez/JonathanJoseGonzalez/output/snake.svg" alt="Snake animation" />
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=saviortex&unique=true)
