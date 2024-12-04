@@ -34,6 +34,8 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/JonathanJoseGonzalez/JonathanJoseGonzalez/output/snake.svg" alt="Snake animation" />
+<img src="https://JonathanJoseGonzalez.github.io/JonathanJoseGonzalez/snake.svg" alt="Snake animation" />
+
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=saviortex&unique=true)
