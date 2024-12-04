@@ -45,8 +45,4 @@
 
 <img src="https://raw.githubusercontent.com/JonathanJoseGonzalez/JonathanJoseGonzalez/output/snake.svg" alt="Snake animation" />
 
-<!-- Custom Spotify Markdown -->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=saviortex)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=saviortex&count=5)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=saviortex&width=400)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=saviortex&unique=true)
