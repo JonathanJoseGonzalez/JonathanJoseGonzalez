@@ -35,4 +35,6 @@
 
 ![snake animation](https://github.com/JonathanJoseGonzalez/blob/output/github-contribution-grid-snake2.svg)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=saviortex&unique=true)
+<div align="center">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=saviortex&unique=true)
+</div>
