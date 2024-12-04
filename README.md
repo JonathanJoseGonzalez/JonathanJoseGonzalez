@@ -36,5 +36,5 @@
 ![snake animation](https://github.com/JonathanJoseGonzalez/blob/output/github-contribution-grid-snake2.svg)
 
 <div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=saviortex&unique=true)
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=saviortex&unique=true" alt="Spotify Recently Played" />
 </div>
