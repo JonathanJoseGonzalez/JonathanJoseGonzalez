@@ -34,7 +34,7 @@
 </div>
 
 
-<img src="https://jonathanjosegonzalez.github.io/SaviorTex/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://jonathanjosegonzalez.github.io/SaviorTex/snake.svg" alt="Snake animation" />
 
 
 
