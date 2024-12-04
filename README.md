@@ -33,9 +33,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo" />
 </div>
 
-
-<img src="https://jonathanjosegonzalez.github.io/SaviorTex/snake.svg" alt="Snake animation" />
-
-
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=saviortex&unique=true)
