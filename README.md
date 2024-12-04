@@ -33,11 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo" />
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Tolv Carmine">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Tolv%20Carmine&count=7&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
 
 <img src="https://raw.githubusercontent.com/JonathanJoseGonzalez/JonathanJoseGonzalez/output/snake.svg" alt="Snake animation" />
 
