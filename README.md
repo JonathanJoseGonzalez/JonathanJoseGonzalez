@@ -1,4 +1,5 @@
-<h2 align="left">Olá 👋! Meu nome é Tex e eu sou um Estudante de ADS | Farmacêutico Industrial nas horas vagas (e nem é brincadeira kk) | Entusiasta de Ciberssegurança</h2>
+<h2 align="left">𝙾𝚕á 👋! 𝙼𝚎𝚞 𝚗𝚘𝚖𝚎 é 𝚃𝚎𝚡 𝚎 𝚎𝚞 𝚜𝚘𝚞 𝚞𝚖 𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝙰𝙳𝚂 | 𝙵𝚊𝚛𝚖𝚊𝚌ê𝚞𝚝𝚒𝚌𝚘 𝙸𝚗𝚍𝚞𝚜𝚝𝚛𝚒𝚊𝚕 𝚗𝚊𝚜 𝚑𝚘𝚛𝚊𝚜 𝚟𝚊𝚐𝚊𝚜 | 𝙴𝚗𝚝𝚞𝚜𝚒𝚊𝚜𝚝𝚊 𝚍𝚎 𝙲𝚒𝚋𝚎𝚛𝚜𝚎𝚐𝚞𝚛𝚊𝚗ç𝚊</h2>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JonathanJoseGonzalez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
